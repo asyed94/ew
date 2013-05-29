@@ -1,4 +1,4 @@
 ew
 ==
 
-EnigmaWallet
+EnigmaWallet - coming soon
